@@ -1,0 +1,16 @@
+title: Ruofei Jiang - Research Blog
+email: ruofei@colomind.com
+description: >
+  Independent researcher working on AI agent architectures.
+  This blog documents original research, paper summaries, and technical notes.
+baseurl: ""
+url: "https://ruofeijiang.github.io"
+github_username: RuofeiJiang
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+show_excerpts: true
