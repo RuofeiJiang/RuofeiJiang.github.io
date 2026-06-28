@@ -9,7 +9,7 @@ categories: research
 
 The term "AI Agent System" is everywhere—yet no one has formally defined it. Existing frameworks treat it as a descriptive phrase, not a rigorous concept. This gap matters: without a definition, we cannot distinguish an AI *system* from an AI *operating system*, nor can we reason about what architectures are possible.
 
-In my paper [*AI Agents Operating System: A Heterogeneous Multi-Agent Architecture with Spontaneous Scheduling*](https://github.com/RuofeiJiang/ColoMind/blob/main/docs/paper-aaos.md), I propose **AAOS (AI Agents Operating System)**—a formal definition of AI agent systems and an architecture that follows from that definition.
+In my paper *AI Agents Operating System: A Heterogeneous Multi-Agent Architecture with Spontaneous Scheduling*, I propose **AAOS (AI Agents Operating System)**—a formal definition of AI agent systems and an architecture that follows from that definition.
 
 ## The Core Argument: LLMs Are Knowledge Bases, Not Agents
 
