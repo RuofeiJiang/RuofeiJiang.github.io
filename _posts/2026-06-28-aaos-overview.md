@@ -85,4 +85,4 @@ Consider the request: *"Plan my business trip to Beijing next week—book flight
 
 ---
 
-*This post is an overview of my paper "AI Agents Operating System: 人工智能体集群操作系统." The full manuscript has been submitted to the Journal of Artificial Intelligence Research (JAIR) and is currently under review. If you are interested in the complete paper and are not involved in the review process, please feel free to contact me directly.*
+*This post is an overview of my paper "AI Agents Operating System." The full manuscript has been submitted to the Journal of Artificial Intelligence Research (JAIR) and is currently under review. If you are interested in the complete paper and are not involved in the review process, please feel free to contact me directly.*
