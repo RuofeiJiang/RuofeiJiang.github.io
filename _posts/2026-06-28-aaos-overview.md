@@ -82,3 +82,7 @@ Consider the request: *"Plan my business trip to Beijing next week—book flight
 4. **Spontaneous scheduling paradigm**: context-dependent scheduling vs. SOP passive orchestration
 5. **CLI Integration Layer**: the dividing line between system and operating system; "applications adapt to the system" as the ecosystem direction
 6. **Sentinel neutrality**: I/O auditing maintained by neutral institutions, technical independence + institutional independence
+
+## Current Progress
+
+The complete manuscript is ready. A Linux-based prototype system is currently under development to validate the spontaneous scheduling mechanism.
