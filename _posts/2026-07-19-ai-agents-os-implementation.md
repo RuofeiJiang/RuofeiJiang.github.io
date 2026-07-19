@@ -81,8 +81,6 @@ Local GPU inference is often pitched as the "serious" option. The reality: you n
 
 Pure API = **low cost + strongest models + always latest + zero maintenance**.
 
-API pricing is an early-stage phenomenon. The long-term trend is clear: inference costs drop continuously. This is not an architectural concern.
-
 ## Tech Stack
 
 | Component | Language | Runtime |
